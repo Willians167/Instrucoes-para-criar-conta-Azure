@@ -46,5 +46,5 @@ Este guia fornece instruções passo a passo sobre como criar uma conta gratuita
 
 ## Notas
 
-- Certifique-se de verificar o site do Azure para obter as instruções mais atualizadas.
+-  verificar o site do Azure para obter as instruções mais atualizadas.
 
